@@ -1,3 +1,4 @@
 # Devdetective
 The "Dev Detective" project is a web application pro that serves as a GitHub profile details viewer. It is built using  JavaScript , CSS and HTML. The primary feature of this project is to retrieve and display GitHub profile information based on a username input provided by the user. This is achieved by utilizing the GitHub API to fetch the details.
 The project showcases the integration of front-end web technologies (HTML, CSS, and JS) with an external API (GitHub API) to create a seamless and user-friendly experience. It offers insights into a GitHub user's public profile without requiring users to navigate to the GitHub website directly. This makes it convenient for individuals to quickly gather essential information about a specific GitHub user's activities and contributions.
+[Live link-](https://64e71da3e4b1a261c35ca69e--storied-crepe-9dbe7d.netlify.app/)
